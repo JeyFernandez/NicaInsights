@@ -1,0 +1,52 @@
+# NicaInsights
+
+NicaInsights es un proyecto diseñado para proporcionar información y análisis sobre diversos temas relacionados con Nicaragua.
+
+## Características
+
+- Análisis de datos
+- Visualización de información
+- Informes detallados
+
+## Requisitos
+
+- Python 3.x
+- Librerías: pandas, matplotlib, seaborn
+
+## Instalación
+
+1. Clona el repositorio:
+
+```
+git clone https://github.com/tu_usuario/NicaInsights.git
+```
+
+2. Navega al directorio del proyecto:
+
+```
+cd NicaInsights
+```
+
+3. Instala las dependencias:
+
+```
+pip install -r requirements.txt
+```
+
+## Uso
+
+1. Ejecuta el script principal:
+
+```
+python main.py
+```
+
+2. Sigue las instrucciones en pantalla para interactuar con el análisis de datos.
+
+## Contribuciones
+
+Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request.
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT.
